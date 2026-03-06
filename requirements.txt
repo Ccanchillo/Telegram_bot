@@ -1,4 +1,4 @@
-Plaintext
-pyTelegramBotAPI
-flask
-gunicorn
+streamlit
+plotly
+pandas
+scikit-learn
